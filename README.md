@@ -11,7 +11,7 @@
 - 🌱 Currently learning Data Science and Machine Learning
 - 📊 Interested in Data Analytics and AI
 - 💡 Skilled in Python, SQL, Power BI, Excel
-- 📫 Email: your-email@example.com
+- 📫 Email: chrevathi976@gmail.com
 
 ---
 
